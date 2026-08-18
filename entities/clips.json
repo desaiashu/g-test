@@ -353,6 +353,14 @@
           "beat": 4.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "55ldm5",
+          "note": 101,
+          "velocity": 100,
+          "beat": 8.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
