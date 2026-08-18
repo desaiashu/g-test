@@ -33,6 +33,12 @@
       "fromPort": 0,
       "toNode": "htsn",
       "toPort": 0
+    },
+    {
+      "fromNode": "wgpm",
+      "fromPort": 1,
+      "toNode": "htsn",
+      "toPort": 1
     }
   ]
 }
