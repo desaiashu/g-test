@@ -1,4 +1,18 @@
 {
-  "nodes": {},
+  "nodes": {
+    "intj": {
+      "nodeId": "intj",
+      "typeId": "plugin",
+      "position": [
+        664.6154,
+        392.9267
+      ],
+      "refId": "tivraDoubler",
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false
+    }
+  },
   "connections": []
 }
