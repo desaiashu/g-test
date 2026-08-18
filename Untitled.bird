@@ -36,3 +36,8 @@ returns
 sec main
   trk 2 Chords |qae
     c 0:0 32:0 |uanu
+  trk 3 Bass |bas
+    c 0:0 32:0 |zwhc
+      p w
+        v 95 85 92 88
+        n D2 F2 A2 G#2 G2 B2 D3 C#3 C2 E2 G2 G#2 A2 C#3 E3 D#3

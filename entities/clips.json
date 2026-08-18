@@ -22,5 +22,286 @@
       "amount": 0.0,
       "mode": "eighth"
     }
+  },
+  "zwhc": {
+    "id": "zwhc",
+    "trackId": "bas",
+    "name": "Bass - clip",
+    "startBeat": 0.0,
+    "lengthBeats": 128.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "xebyro",
+          "note": 38,
+          "velocity": 95,
+          "beat": 0.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xecadl",
+          "note": 41,
+          "velocity": 85,
+          "beat": 4.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xecadm",
+          "note": 45,
+          "velocity": 92,
+          "beat": 8.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xecbpj",
+          "note": 44,
+          "velocity": 88,
+          "beat": 12.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xecbpk",
+          "note": 43,
+          "velocity": 95,
+          "beat": 16.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xecddt",
+          "note": 47,
+          "velocity": 85,
+          "beat": 20.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xecddu",
+          "note": 50,
+          "velocity": 92,
+          "beat": 24.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xecddv",
+          "note": 49,
+          "velocity": 88,
+          "beat": 28.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebsma",
+          "note": 36,
+          "velocity": 95,
+          "beat": 32.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebsmb",
+          "note": 40,
+          "velocity": 85,
+          "beat": 36.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebtyo",
+          "note": 43,
+          "velocity": 92,
+          "beat": 40.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebtyp",
+          "note": 44,
+          "velocity": 88,
+          "beat": 44.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebtyq",
+          "note": 45,
+          "velocity": 95,
+          "beat": 48.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebvld",
+          "note": 49,
+          "velocity": 85,
+          "beat": 52.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebvle",
+          "note": 52,
+          "velocity": 92,
+          "beat": 56.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebvlf",
+          "note": 51,
+          "velocity": 88,
+          "beat": 60.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebwxs",
+          "note": 38,
+          "velocity": 95,
+          "beat": 64.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebwxt",
+          "note": 41,
+          "velocity": 85,
+          "beat": 68.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebmgo",
+          "note": 45,
+          "velocity": 92,
+          "beat": 72.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebmgp",
+          "note": 44,
+          "velocity": 88,
+          "beat": 76.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebnts",
+          "note": 43,
+          "velocity": 95,
+          "beat": 80.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebntt",
+          "note": 47,
+          "velocity": 85,
+          "beat": 84.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebntu",
+          "note": 50,
+          "velocity": 92,
+          "beat": 88.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebpfr",
+          "note": 49,
+          "velocity": 88,
+          "beat": 92.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebpdw",
+          "note": 36,
+          "velocity": 95,
+          "beat": 96.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebpdx",
+          "note": 40,
+          "velocity": 85,
+          "beat": 100.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebqrq",
+          "note": 43,
+          "velocity": 92,
+          "beat": 104.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebqrr",
+          "note": 44,
+          "velocity": 88,
+          "beat": 108.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebgdo",
+          "note": 45,
+          "velocity": 95,
+          "beat": 112.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebgdp",
+          "note": 49,
+          "velocity": 85,
+          "beat": 116.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebgdq",
+          "note": 52,
+          "velocity": 92,
+          "beat": 120.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        },
+        {
+          "id": "xebhml",
+          "note": 51,
+          "velocity": 88,
+          "beat": 124.0,
+          "durationBeats": 4.0,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
   }
 }
