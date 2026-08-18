@@ -1,4 +1,18 @@
 {
-  "nodes": {},
+  "nodes": {
+    "htsn": {
+      "nodeId": "htsn",
+      "typeId": "plugin",
+      "position": [
+        864.0,
+        518.5
+      ],
+      "refId": "tivraChorus",
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false
+    }
+  },
   "connections": []
 }

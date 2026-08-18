@@ -10,26 +10,26 @@
     "directMonitoring": false
   },
   "appearance": {
-    "theme": "system"
+    "theme": "dark"
   },
   "ai": {
     "aiComfort": 3,
-    "developmentStage": 2,
+    "developmentStage": 0,
     "pluginPreload": "project"
   },
   "workflow": {
     "vibeMode": false,
     "experienceLevel": 3,
     "defaultChannelStrip": null,
-    "pluginMode": "canvas"
+    "pluginMode": "slotsExpanding"
   },
   "playback": {
     "previewVolume": 0.7
   },
   "audioDevices": {
-    "audioOutputDevice": "Default",
-    "audioInputDevice": "None",
+    "audioOutputDevice": "MacBook Pro Speakers",
+    "audioInputDevice": "MacBook Pro Microphone",
     "masterOutputPair": 0
   },
-  "hasApiKey": false
+  "hasApiKey": true
 }
