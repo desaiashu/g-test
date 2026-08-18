@@ -46,6 +46,12 @@
       "fromPort": 0,
       "toNode": "xttg",
       "toPort": 1
+    },
+    {
+      "fromNode": "xttg",
+      "fromPort": 0,
+      "toNode": "intj",
+      "toPort": 0
     }
   ]
 }
