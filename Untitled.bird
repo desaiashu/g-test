@@ -1,7 +1,7 @@
 sig
-  bpm 130
+  bpm 120
   system 12tet western
-  scale C chromatic
+  scale C major
 
 arr
   main 32 |oxj
@@ -10,9 +10,13 @@ tracks
   1 audio |zuk
     type audio
     strip tivraStrip
-  2 midi |qae
+  2 Chords |qae
     type midi
-    plugin tivra4OSC
+    plugin tivraFM
+    strip tivraStrip
+  3 Bass |bas
+    type midi
+    plugin tivraSub
     strip tivraStrip
 
 returns
