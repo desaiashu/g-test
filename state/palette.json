@@ -38,7 +38,7 @@
       ],
       "refId": null,
       "params": {},
-      "chainLoop": false,
+      "chainLoop": true,
       "chainMuted": false,
       "chainSolo": false
     }
