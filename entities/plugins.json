@@ -139,7 +139,7 @@
       "shape": 0.0,
       "subLevel": 0.5,
       "cutoff": 800.0,
-      "resonance": 1.2000000476837158,
+      "resonance": 1.12,
       "envAmt": 0.6000000238418579,
       "drive": 2.0,
       "attackMs": 3.0,
