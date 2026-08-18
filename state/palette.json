@@ -8,7 +8,9 @@
         433.76172
       ],
       "refId": "tivraChorus",
-      "params": {},
+      "params": {
+        "dryWet": 50.0
+      },
       "chainLoop": false,
       "chainMuted": false,
       "chainSolo": false
