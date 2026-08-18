@@ -27,5 +27,12 @@
       "chainSolo": false
     }
   },
-  "connections": []
+  "connections": [
+    {
+      "fromNode": "wgpm",
+      "fromPort": 0,
+      "toNode": "htsn",
+      "toPort": 0
+    }
+  ]
 }
