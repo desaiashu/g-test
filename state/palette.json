@@ -52,6 +52,12 @@
       "fromPort": 1,
       "toNode": "htsn",
       "toPort": 1
+    },
+    {
+      "fromNode": "oaij",
+      "fromPort": 0,
+      "toNode": "wgpm",
+      "toPort": 0
     }
   ]
 }
