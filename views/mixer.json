@@ -28,7 +28,7 @@
     {
       "trackId": "qae",
       "returnId": "rlx",
-      "gain": 0.0,
+      "gain": 0.25,
       "preFader": false
     },
     {

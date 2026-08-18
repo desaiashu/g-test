@@ -17,6 +17,7 @@ tracks
   3 Bass |bas
     type midi
     plugin tivraSub
+    fx Abbey Road RS127 Box
     strip tivraStrip
 
 returns

@@ -320,5 +320,14 @@
     "enabled": true,
     "state": null,
     "sidechainSensitivity": 0.6000000238418579
+  },
+  "joyh": {
+    "id": "joyh",
+    "trackId": "bas",
+    "typeName": "Abbey Road RS127 Box",
+    "slot": 0,
+    "enabled": true,
+    "state": null,
+    "sidechainSensitivity": 0.6000000238418579
   }
 }
