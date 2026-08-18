@@ -19,6 +19,9 @@ tracks
     plugin tivraSub
     fx Abbey Road RS127 Box
     strip tivraStrip
+  4 MIDI |sgn
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rlx

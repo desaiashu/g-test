@@ -511,5 +511,14 @@
       }
     },
     "sidechainSensitivity": 0.6000000238418579
+  },
+  "cvwi": {
+    "id": "cvwi",
+    "trackId": "sgn",
+    "typeName": "tivraStrip",
+    "slot": "channelStrip",
+    "enabled": true,
+    "state": null,
+    "sidechainSensitivity": 0.6000000238418579
   }
 }

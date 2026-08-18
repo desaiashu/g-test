@@ -81,6 +81,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "sgn": {
+      "id": "sgn",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -90,7 +100,8 @@
     "rlx",
     "rbe",
     "rrn",
-    "rsy"
+    "rsy",
+    "sgn"
   ],
   "sections": {
     "oxj": {
