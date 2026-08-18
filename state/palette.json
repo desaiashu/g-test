@@ -9,7 +9,8 @@
       ],
       "refId": "tivraChorus",
       "params": {
-        "dryWet": 19.0
+        "dryWet": 19.0,
+        "chorusFeedback": 37.0
       },
       "chainLoop": false,
       "chainMuted": false,
