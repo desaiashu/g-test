@@ -40,5 +40,12 @@
       "chainSolo": false
     }
   },
-  "connections": []
+  "connections": [
+    {
+      "fromNode": "ifvc",
+      "fromPort": 0,
+      "toNode": "xttg",
+      "toPort": 1
+    }
+  ]
 }
