@@ -1,0 +1,32 @@
+sig
+  bpm 130
+  system 12tet western
+  scale C chromatic
+
+arr
+  main 32 |oxj
+
+tracks
+  1 audio |zuk
+    type audio
+    strip tivraStrip
+  2 midi |qae
+    type midi
+    plugin tivra4OSC
+    strip tivraStrip
+
+returns
+  0 Hall |rlx
+    fx tivraHall
+    strip tivraStrip
+  1 Plate |rbe
+    fx tivraPlate
+    strip tivraStrip
+  2 Delay |rrn
+    fx tivraDelay
+    strip tivraStrip
+  3 Color |rsy
+    fx tivraDistortion
+    strip tivraStrip
+
+sec main
