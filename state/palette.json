@@ -41,6 +41,19 @@
       "chainLoop": false,
       "chainMuted": false,
       "chainSolo": false
+    },
+    "fybf": {
+      "nodeId": "fybf",
+      "typeId": "generator",
+      "position": [
+        855.333,
+        526.602
+      ],
+      "refId": "lyria",
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false
     }
   },
   "connections": [
