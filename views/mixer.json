@@ -8,13 +8,7 @@
   "clipMix": {},
   "sends": [
     {
-      "trackId": "wky",
-      "returnId": "rsy",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "qae",
+      "trackId": "gvd",
       "returnId": "rrn",
       "gain": 0.0,
       "preFader": false
@@ -28,90 +22,6 @@
     {
       "trackId": "zuk",
       "returnId": "rbe",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "gvd",
-      "returnId": "rsy",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "gvd",
-      "returnId": "rrn",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "zuk",
-      "returnId": "rlx",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "gvd",
-      "returnId": "rlx",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "bas",
-      "returnId": "rsy",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "sgn",
-      "returnId": "rrn",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "zuk",
-      "returnId": "rrn",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "gvd",
-      "returnId": "rbe",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "bas",
-      "returnId": "rbe",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "sgn",
-      "returnId": "rbe",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "wky",
-      "returnId": "rrn",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "sgn",
-      "returnId": "rlx",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "bas",
-      "returnId": "rrn",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "bas",
-      "returnId": "rlx",
       "gain": 0.0,
       "preFader": false
     },
@@ -122,8 +32,50 @@
       "preFader": false
     },
     {
-      "trackId": "qae",
+      "trackId": "wky",
+      "returnId": "rbe",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "gvd",
       "returnId": "rsy",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "zuk",
+      "returnId": "rlx",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "sgn",
+      "returnId": "rrn",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "qae",
+      "returnId": "rrn",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "wky",
+      "returnId": "rrn",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "wky",
+      "returnId": "rsy",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "bas",
+      "returnId": "rlx",
       "gain": 0.0,
       "preFader": false
     },
@@ -134,20 +86,68 @@
       "preFader": false
     },
     {
-      "trackId": "qae",
-      "returnId": "rbe",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
       "trackId": "wky",
       "returnId": "rlx",
       "gain": 0.0,
       "preFader": false
     },
     {
-      "trackId": "wky",
+      "trackId": "qae",
+      "returnId": "rsy",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "zuk",
+      "returnId": "rrn",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "bas",
       "returnId": "rbe",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "qae",
+      "returnId": "rbe",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "bas",
+      "returnId": "rsy",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "gvd",
+      "returnId": "rbe",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "gvd",
+      "returnId": "rlx",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "sgn",
+      "returnId": "rbe",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "sgn",
+      "returnId": "rlx",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "bas",
+      "returnId": "rrn",
       "gain": 0.0,
       "preFader": false
     }
