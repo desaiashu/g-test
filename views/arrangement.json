@@ -121,6 +121,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "tex": {
+      "id": "tex",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -134,7 +144,8 @@
     "sgn",
     "gvd",
     "wky",
-    "wya"
+    "wya",
+    "tex"
   ],
   "sections": {
     "oxj": {
