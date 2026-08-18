@@ -25,6 +25,9 @@ tracks
   5 MIDI |gvd
     type midi
     strip tivraStrip
+  6 Audio |wky
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rlx
