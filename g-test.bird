@@ -48,6 +48,6 @@ sec main
     c 32:0 4:0 |izrb
   trk 4 MIDI |sgn
     c 4:0 4:0 |jiwu
-      p _q q _h q _hd q _w _hd
+      p _q q _h q _hd q _h q _w
         v 100
-        n 100 101 101
+        n 100 101 101 101
