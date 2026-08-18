@@ -25,6 +25,19 @@
       "chainLoop": false,
       "chainMuted": false,
       "chainSolo": false
+    },
+    "ifvc": {
+      "nodeId": "ifvc",
+      "typeId": "transport",
+      "position": [
+        664.6154,
+        392.9267
+      ],
+      "refId": null,
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false
     }
   },
   "connections": []
