@@ -26,6 +26,12 @@
       "preFader": false
     },
     {
+      "trackId": "gvd",
+      "returnId": "rrn",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "bas",
       "returnId": "rrn",
       "gain": 0.0,
@@ -44,8 +50,20 @@
       "preFader": false
     },
     {
+      "trackId": "gvd",
+      "returnId": "rlx",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "qae",
       "returnId": "rrn",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "gvd",
+      "returnId": "rbe",
       "gain": 0.0,
       "preFader": false
     },
@@ -82,6 +100,12 @@
     {
       "trackId": "qae",
       "returnId": "rbe",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "gvd",
+      "returnId": "rsy",
       "gain": 0.0,
       "preFader": false
     },

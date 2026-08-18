@@ -91,6 +91,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "gvd": {
+      "id": "gvd",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -101,7 +111,8 @@
     "rbe",
     "rrn",
     "rsy",
-    "sgn"
+    "sgn",
+    "gvd"
   ],
   "sections": {
     "oxj": {
