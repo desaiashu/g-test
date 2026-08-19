@@ -122,8 +122,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "qel": {
-      "id": "qel",
+    "tux": {
+      "id": "tux",
       "name": "MIDI",
       "trackType": "midi",
       "auditionLane": null,
@@ -144,8 +144,7 @@
     "sgn",
     "wya",
     "dnl",
-    "nwb",
-    "qel"
+    "nwb"
   ],
   "sections": {
     "oxj": {
