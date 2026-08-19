@@ -31,9 +31,6 @@ tracks
   7 MIDI |nwb
     type midi
     strip tivraStrip
-  8 MIDI |ovt
-    type midi
-    strip tivraStrip
 
 returns
   0 Hall |rlx
