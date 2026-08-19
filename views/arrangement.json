@@ -92,16 +92,6 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "gvd": {
-      "id": "gvd",
-      "name": "MIDI",
-      "trackType": "midi",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
     "wky": {
       "id": "wky",
       "name": "Audio",
@@ -132,7 +122,6 @@
     "rrn",
     "rsy",
     "sgn",
-    "gvd",
     "wky",
     "wya"
   ],
