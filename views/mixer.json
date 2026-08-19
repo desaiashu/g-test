@@ -8,6 +8,12 @@
   "clipMix": {},
   "sends": [
     {
+      "trackId": "dnl",
+      "returnId": "rsy",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "wya",
       "returnId": "rbe",
       "gain": 0.0,
@@ -112,6 +118,12 @@
     {
       "trackId": "tex",
       "returnId": "rsy",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "dnl",
+      "returnId": "rbe",
       "gain": 0.0,
       "preFader": false
     },
@@ -176,6 +188,12 @@
       "preFader": false
     },
     {
+      "trackId": "dnl",
+      "returnId": "rrn",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "wya",
       "returnId": "rlx",
       "gain": 0.0,
@@ -189,6 +207,12 @@
     },
     {
       "trackId": "tex",
+      "returnId": "rlx",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "dnl",
       "returnId": "rlx",
       "gain": 0.0,
       "preFader": false
