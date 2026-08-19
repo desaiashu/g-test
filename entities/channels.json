@@ -47,31 +47,19 @@
     },
     "channelFormat": "stereo"
   },
-  "gvd": {
-    "gain": 1.0,
-    "pan": 0.0,
-    "muted": false,
-    "solo": false,
-    "spatial": {
-      "azimuth": 0.0,
-      "elevation": 0.0,
-      "distance": 1.0
-    },
-    "channelFormat": "stereo"
-  },
-  "wky": {
-    "gain": 1.0,
-    "pan": 0.0,
-    "muted": false,
-    "solo": false,
-    "spatial": {
-      "azimuth": 0.0,
-      "elevation": 0.0,
-      "distance": 1.0
-    },
-    "channelFormat": "stereo"
-  },
   "wya": {
+    "gain": 0.05983651801943779,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo"
+  },
+  "dnl": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -83,7 +71,19 @@
     },
     "channelFormat": "stereo"
   },
-  "tex": {
+  "nwb": {
+    "gain": 1.1727280616760254,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo"
+  },
+  "tux": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,

@@ -22,17 +22,14 @@ tracks
   4 MIDI |sgn
     type midi
     strip tivraStrip
-  5 MIDI |gvd
+  5 MIDI |wya
     type midi
     strip tivraStrip
-  6 Audio |wky
+  6 Audio |dnl
     type audio
     strip tivraStrip
-  7 MIDI |wya
+  7 MIDI |nwb
     type midi
-    strip tivraStrip
-  8 Audio |tex
-    type audio
     strip tivraStrip
 
 returns

@@ -92,26 +92,6 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "gvd": {
-      "id": "gvd",
-      "name": "MIDI",
-      "trackType": "midi",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
-    "wky": {
-      "id": "wky",
-      "name": "Audio",
-      "trackType": "audio",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
     "wya": {
       "id": "wya",
       "name": "MIDI",
@@ -122,10 +102,30 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "tex": {
-      "id": "tex",
+    "dnl": {
+      "id": "dnl",
       "name": "Audio",
       "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "nwb": {
+      "id": "nwb",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "tux": {
+      "id": "tux",
+      "name": "MIDI",
+      "trackType": "midi",
       "auditionLane": null,
       "takeLaneCount": 0,
       "audioFlipped": false,
@@ -142,10 +142,9 @@
     "rrn",
     "rsy",
     "sgn",
-    "gvd",
-    "wky",
     "wya",
-    "tex"
+    "dnl",
+    "nwb"
   ],
   "sections": {
     "oxj": {
