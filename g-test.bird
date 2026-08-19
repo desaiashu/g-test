@@ -31,6 +31,12 @@ tracks
   7 MIDI |nwb
     type midi
     strip tivraStrip
+  8 MIDI |qel
+    type midi
+    strip tivraStrip
+  9 MIDI |tux
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rlx
