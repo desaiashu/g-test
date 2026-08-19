@@ -592,5 +592,14 @@
     "enabled": true,
     "state": null,
     "sidechainSensitivity": 0.6000000238418579
+  },
+  "ftqy": {
+    "id": "ftqy",
+    "trackId": "ovt",
+    "typeName": "tivraStrip",
+    "slot": "channelStrip",
+    "enabled": true,
+    "state": null,
+    "sidechainSensitivity": 0.6000000238418579
   }
 }
