@@ -28,6 +28,12 @@ tracks
   6 Audio |dnl
     type audio
     strip tivraStrip
+  7 MIDI |nwb
+    type midi
+    strip tivraStrip
+  8 MIDI |qel
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rlx

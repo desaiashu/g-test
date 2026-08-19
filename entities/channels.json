@@ -71,8 +71,8 @@
     },
     "channelFormat": "stereo"
   },
-  "qel": {
-    "gain": 1.091994285583496,
+  "nwb": {
+    "gain": 1.1727280616760254,
     "pan": 0.0,
     "muted": false,
     "solo": false,
@@ -83,8 +83,8 @@
     },
     "channelFormat": "stereo"
   },
-  "tux": {
-    "gain": 1.0,
+  "qel": {
+    "gain": 1.091994285583496,
     "pan": 0.0,
     "muted": false,
     "solo": false,
