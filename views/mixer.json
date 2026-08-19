@@ -14,8 +14,8 @@
       "preFader": false
     },
     {
-      "trackId": "wky",
-      "returnId": "rlx",
+      "trackId": "sgn",
+      "returnId": "rbe",
       "gain": 0.0,
       "preFader": false
     },
@@ -266,8 +266,8 @@
       "preFader": false
     },
     {
-      "trackId": "sgn",
-      "returnId": "rbe",
+      "trackId": "wky",
+      "returnId": "rlx",
       "gain": 0.0,
       "preFader": false
     }
