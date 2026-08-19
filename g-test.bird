@@ -22,10 +22,7 @@ tracks
   4 MIDI |sgn
     type midi
     strip tivraStrip
-  5 Audio |wky
-    type audio
-    strip tivraStrip
-  6 MIDI |wya
+  5 MIDI |wya
     type midi
     strip tivraStrip
 

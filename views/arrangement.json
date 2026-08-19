@@ -92,16 +92,6 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "wky": {
-      "id": "wky",
-      "name": "Audio",
-      "trackType": "audio",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
     "wya": {
       "id": "wya",
       "name": "MIDI",
@@ -122,7 +112,6 @@
     "rrn",
     "rsy",
     "sgn",
-    "wky",
     "wya"
   ],
   "sections": {
