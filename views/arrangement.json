@@ -111,6 +111,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "nwb": {
+      "id": "nwb",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -123,7 +133,8 @@
     "rsy",
     "sgn",
     "wya",
-    "dnl"
+    "dnl",
+    "nwb"
   ],
   "sections": {
     "oxj": {
