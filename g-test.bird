@@ -46,6 +46,9 @@ tracks
   12 MIDI |xci
     type midi
     strip tivraStrip
+  13 MIDI |pau
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rlx

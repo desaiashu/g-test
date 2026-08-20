@@ -230,6 +230,12 @@
       "preFader": false
     },
     {
+      "trackId": "pau",
+      "returnId": "rrn",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "bas",
       "returnId": "rlx",
       "gain": 0.0,
@@ -296,6 +302,12 @@
       "preFader": false
     },
     {
+      "trackId": "pau",
+      "returnId": "rsy",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "bas",
       "returnId": "rrn",
       "gain": 0.0,
@@ -356,6 +368,12 @@
       "preFader": false
     },
     {
+      "trackId": "pau",
+      "returnId": "rlx",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "asx",
       "returnId": "rlx",
       "gain": 0.0,
@@ -370,6 +388,12 @@
     {
       "trackId": "nwb",
       "returnId": "rrn",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "pau",
+      "returnId": "rbe",
       "gain": 0.0,
       "preFader": false
     },
