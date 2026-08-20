@@ -1008,6 +1008,14 @@
           "beat": 22.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "u32vsm",
+          "note": 98,
+          "velocity": 100,
+          "beat": 10.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
