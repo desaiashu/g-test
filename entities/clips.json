@@ -660,6 +660,14 @@
           "beat": 5.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "akx99h",
+          "note": 99,
+          "velocity": 100,
+          "beat": 6.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
