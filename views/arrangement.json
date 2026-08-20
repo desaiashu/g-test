@@ -161,6 +161,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "dow": {
+      "id": "dow",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -176,7 +186,8 @@
     "dnl",
     "nwb",
     "asx",
-    "lff"
+    "lff",
+    "dow"
   ],
   "sections": {
     "oxj": {

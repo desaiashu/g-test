@@ -619,5 +619,14 @@
     "enabled": true,
     "state": null,
     "sidechainSensitivity": 0.6000000238418579
+  },
+  "goqx": {
+    "id": "goqx",
+    "trackId": "dow",
+    "typeName": "tivraStrip",
+    "slot": "channelStrip",
+    "enabled": true,
+    "state": null,
+    "sidechainSensitivity": 0.6000000238418579
   }
 }

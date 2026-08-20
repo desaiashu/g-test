@@ -37,6 +37,9 @@ tracks
   9 Audio |lff
     type audio
     strip tivraStrip
+  10 MIDI |dow
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rlx
