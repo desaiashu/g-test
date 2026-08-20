@@ -34,6 +34,9 @@ tracks
   8 Audio |asx
     type audio
     strip tivraStrip
+  9 Audio |lff
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rlx

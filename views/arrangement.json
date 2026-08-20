@@ -151,6 +151,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "lff": {
+      "id": "lff",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -165,7 +175,8 @@
     "wya",
     "dnl",
     "nwb",
-    "asx"
+    "asx",
+    "lff"
   ],
   "sections": {
     "oxj": {
