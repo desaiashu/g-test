@@ -757,6 +757,14 @@
           "beat": 4.5,
           "durationBeats": 0.5,
           "channel": 0
+        },
+        {
+          "id": "1p9axn",
+          "note": 102,
+          "velocity": 100,
+          "beat": 8.5,
+          "durationBeats": 0.5,
+          "channel": 0
         }
       ]
     },
