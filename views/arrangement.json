@@ -181,6 +181,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "vvc": {
+      "id": "vvc",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -198,7 +208,8 @@
     "asx",
     "lff",
     "dow",
-    "cdz"
+    "cdz",
+    "vvc"
   ],
   "sections": {
     "oxj": {

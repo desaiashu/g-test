@@ -8,6 +8,12 @@
   "clipMix": {},
   "sends": [
     {
+      "trackId": "vvc",
+      "returnId": "rrn",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "tex",
       "returnId": "rbe",
       "gain": 0.0,
@@ -63,6 +69,12 @@
     },
     {
       "trackId": "zuk",
+      "returnId": "rsy",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "vvc",
       "returnId": "rsy",
       "gain": 0.0,
       "preFader": false
@@ -160,6 +172,12 @@
     {
       "trackId": "asx",
       "returnId": "rlx",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "vvc",
+      "returnId": "rbe",
       "gain": 0.0,
       "preFader": false
     },
@@ -304,6 +322,12 @@
     {
       "trackId": "lff",
       "returnId": "rrn",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "vvc",
+      "returnId": "rlx",
       "gain": 0.0,
       "preFader": false
     },
