@@ -70,6 +70,6 @@ sec main
         n 101 98 102 98 102 97 102 98
   trk 7 MIDI |nwb
     c 4:0 4:0 |ylrw
-      p _hd _xx xx _hd xx _q xx _h xx xx _w
+      p _qd xx _qd xx _qd xx _q xx _q xx _h xx xx _h xx _qd
         v 100
-        n 100 101 99 99 102
+        n 99 100 99 101 99 99 102 99
