@@ -8,26 +8,26 @@
   "clipMix": {},
   "sends": [
     {
-      "trackId": "wya",
-      "returnId": "rlx",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "qae",
-      "returnId": "rsy",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "asx",
-      "returnId": "rsy",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
       "trackId": "wky",
       "returnId": "rbe",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "lff",
+      "returnId": "rbe",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "zuk",
+      "returnId": "rsy",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "dow",
+      "returnId": "rsy",
       "gain": 0.0,
       "preFader": false
     },
@@ -44,7 +44,7 @@
       "preFader": false
     },
     {
-      "trackId": "lff",
+      "trackId": "ovt",
       "returnId": "rbe",
       "gain": 0.0,
       "preFader": false
@@ -98,12 +98,6 @@
       "preFader": false
     },
     {
-      "trackId": "ovt",
-      "returnId": "rbe",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
       "trackId": "zuk",
       "returnId": "rrn",
       "gain": 0.0,
@@ -116,14 +110,20 @@
       "preFader": false
     },
     {
+      "trackId": "asx",
+      "returnId": "rrn",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "wky",
       "returnId": "rrn",
       "gain": 0.0,
       "preFader": false
     },
     {
-      "trackId": "dow",
-      "returnId": "rlx",
+      "trackId": "bas",
+      "returnId": "rrn",
       "gain": 0.0,
       "preFader": false
     },
@@ -134,8 +134,8 @@
       "preFader": false
     },
     {
-      "trackId": "zuk",
-      "returnId": "rsy",
+      "trackId": "asx",
+      "returnId": "rlx",
       "gain": 0.0,
       "preFader": false
     },
@@ -320,26 +320,26 @@
       "preFader": false
     },
     {
-      "trackId": "dow",
+      "trackId": "qae",
       "returnId": "rsy",
       "gain": 0.0,
       "preFader": false
     },
     {
-      "trackId": "bas",
-      "returnId": "rrn",
+      "trackId": "asx",
+      "returnId": "rsy",
       "gain": 0.0,
       "preFader": false
     },
     {
-      "trackId": "asx",
+      "trackId": "dow",
       "returnId": "rlx",
       "gain": 0.0,
       "preFader": false
     },
     {
-      "trackId": "asx",
-      "returnId": "rrn",
+      "trackId": "wya",
+      "returnId": "rlx",
       "gain": 0.0,
       "preFader": false
     }
