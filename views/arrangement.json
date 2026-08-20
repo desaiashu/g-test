@@ -211,6 +211,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "hpf": {
+      "id": "hpf",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -230,7 +240,8 @@
     "dow",
     "zif",
     "efu",
-    "nai"
+    "nai",
+    "hpf"
   ],
   "sections": {
     "oxj": {

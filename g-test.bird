@@ -49,6 +49,9 @@ tracks
   13 MIDI |nai
     type midi
     strip tivraStrip
+  14 MIDI |hpf
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rlx
