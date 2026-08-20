@@ -817,7 +817,7 @@
         {
           "id": "pcra9r",
           "note": 101,
-          "velocity": 100,
+          "velocity": 30,
           "beat": 3.0,
           "durationBeats": 1.0,
           "channel": 0

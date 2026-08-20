@@ -71,7 +71,7 @@ sec main
     c 8:0 4:0 |ocjh
     c 12:0 4:0 |cnwl
       p _hd q q _h q q _h q _q q _h
-        v 100
+        v 30 100 100 100 100 100
         n 101 97 97 101 101 101
   trk 7 MIDI |nwb
     c 4:0 4:0 |ylrw
