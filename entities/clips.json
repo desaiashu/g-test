@@ -773,6 +773,14 @@
           "beat": 10.5,
           "durationBeats": 0.5,
           "channel": 0
+        },
+        {
+          "id": "biv178",
+          "note": 100,
+          "velocity": 100,
+          "beat": 4.5,
+          "durationBeats": 0.5,
+          "channel": 0
         }
       ]
     },
