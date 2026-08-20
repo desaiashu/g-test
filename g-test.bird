@@ -73,3 +73,10 @@ sec main
       p _qd xx _qd xx _xx xx _xx xx _q xx _q xx _xx xx _q xx xx _qd xx xx _qd
         v 100
         n 99 100 101 99 101 99 102 99 102 102 99
+    c 8:0 4:0 |wszm
+      p _q q _h q q q q _h q _q q q _q q
+        v 100
+        n 98 95 99 99 98 99 96 101 96
+      p _ww _h q _q q _hd
+        v 100
+        n 102 101

@@ -594,5 +594,118 @@
       "amount": 0.0,
       "mode": "eighth"
     }
+  },
+  "wszm": {
+    "id": "wszm",
+    "trackId": "nwb",
+    "name": "MIDI",
+    "startBeat": 32.0,
+    "lengthBeats": 16.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "t2ih31",
+          "note": 98,
+          "velocity": 100,
+          "beat": 7.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "pae1ti",
+          "note": 99,
+          "velocity": 100,
+          "beat": 10.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "iq4fvb",
+          "note": 101,
+          "velocity": 100,
+          "beat": 12.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "dafmx3",
+          "note": 101,
+          "velocity": 100,
+          "beat": 13.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "dpv4ue",
+          "note": 98,
+          "velocity": 100,
+          "beat": 1.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "rz6lhj",
+          "note": 95,
+          "velocity": 100,
+          "beat": 4.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "jrjtgk",
+          "note": 99,
+          "velocity": 100,
+          "beat": 5.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "akx99h",
+          "note": 99,
+          "velocity": 100,
+          "beat": 6.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "nxdpv7",
+          "note": 102,
+          "velocity": 100,
+          "beat": 10.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "4i2p38",
+          "note": 96,
+          "velocity": 100,
+          "beat": 12.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "8qwokh",
+          "note": 96,
+          "velocity": 100,
+          "beat": 15.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
   }
 }
