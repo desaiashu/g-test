@@ -14,8 +14,8 @@
       "preFader": false
     },
     {
-      "trackId": "wky",
-      "returnId": "rlx",
+      "trackId": "dnl",
+      "returnId": "rsy",
       "gain": 0.0,
       "preFader": false
     },
@@ -266,8 +266,8 @@
       "preFader": false
     },
     {
-      "trackId": "dnl",
-      "returnId": "rsy",
+      "trackId": "wky",
+      "returnId": "rlx",
       "gain": 0.0,
       "preFader": false
     }
