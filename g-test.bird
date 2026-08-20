@@ -86,6 +86,6 @@ sec main
         v 100
         n 99 102 101
     c 0:0 4:0 |zyox
-      p _w q _hd q _w _hd
+      p _w q _hd q _h q _w
         v 100
-        n 99 100
+        n 99 100 98
