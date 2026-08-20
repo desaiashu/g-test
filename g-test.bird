@@ -4,7 +4,7 @@ sig
   scale C chromatic
 
 arr
-  main 36 |oxj
+  main 96 |oxj
 
 tracks
   1 audio |zuk
@@ -80,6 +80,7 @@ sec main
       p _hd q q _h q q _h q _q q _h
         v 30 100 100 100 100 100
         n 101 97 97 101 101 101
+    c 64:0 32:0 |nuqp
   trk 7 MIDI |nwb
     c 4:0 4:0 |ylrw
       p _qd xx _qd xx _xx xx _xx xx _q xx _q xx _xx xx _q xx xx _qd xx xx _qd
