@@ -34,6 +34,9 @@ tracks
   8 Audio |asx
     type audio
     strip tivraStrip
+  9 MIDI |ith
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rlx

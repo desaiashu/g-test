@@ -151,6 +151,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "ith": {
+      "id": "ith",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -165,7 +175,8 @@
     "wya",
     "dnl",
     "nwb",
-    "asx"
+    "asx",
+    "ith"
   ],
   "sections": {
     "oxj": {
