@@ -765,6 +765,14 @@
           "beat": 8.5,
           "durationBeats": 0.5,
           "channel": 0
+        },
+        {
+          "id": "ikfjrl",
+          "note": 101,
+          "velocity": 100,
+          "beat": 10.5,
+          "durationBeats": 0.5,
+          "channel": 0
         }
       ]
     },
