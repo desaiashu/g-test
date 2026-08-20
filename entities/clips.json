@@ -749,7 +749,16 @@
     "offsetBeats": 0.0,
     "source": {
       "type": "Midi",
-      "notes": []
+      "notes": [
+        {
+          "id": "ib6vfy",
+          "note": 98,
+          "velocity": 100,
+          "beat": 4.5,
+          "durationBeats": 0.5,
+          "channel": 0
+        }
+      ]
     },
     "araEnabled": false,
     "araBypassed": false,
