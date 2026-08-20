@@ -152,16 +152,6 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "ith": {
-      "id": "ith",
-      "name": "MIDI",
-      "trackType": "midi",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
     "lff": {
       "id": "lff",
       "name": "Audio",
@@ -174,26 +164,6 @@
     },
     "dow": {
       "id": "dow",
-      "name": "MIDI",
-      "trackType": "midi",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
-    "zif": {
-      "id": "zif",
-      "name": "MIDI",
-      "trackType": "midi",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
-    "efu": {
-      "id": "efu",
       "name": "MIDI",
       "trackType": "midi",
       "auditionLane": null,
@@ -217,9 +187,7 @@
     "nwb",
     "asx",
     "lff",
-    "dow",
-    "zif",
-    "efu"
+    "dow"
   ],
   "sections": {
     "oxj": {
