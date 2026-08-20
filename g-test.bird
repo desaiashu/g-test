@@ -90,3 +90,6 @@ sec main
         v 100
         n 96 99 103 100 98 100
     c 16:0 8:0 |eqzp
+      p _w _q q _q q _ww _h q _w q _ww
+        v 100
+        n 96 98 97 98
