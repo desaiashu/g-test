@@ -63,6 +63,13 @@ sec main
       p _q q _h q _hd q _h q _q q _h
         v 100
         n 100 101 101 101 102
+    c 12:0 4:0 |vkhf
+      p _w q _w q _q q _w
+        v 100
+        n 99 98 99
+      p _ww _hd q _w
+        v 100
+        n 102
   trk 5 MIDI |wya
     c 4:0 4:0 |mxos
       p _hd xx _xx xx _q xx _q xx _qd xx xx _h _xx xx xx _h _xx
@@ -89,7 +96,3 @@ sec main
       p _q q _h q _q q _q q _h q _h q _q
         v 100
         n 96 99 103 100 98 100
-    c 16:0 8:0 |eqzp
-      p _w _q q _q q _ww _h q _w q _ww
-        v 100
-        n 96 98 97 98
