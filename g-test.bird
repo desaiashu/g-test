@@ -34,6 +34,18 @@ tracks
   8 Audio |asx
     type audio
     strip tivraStrip
+  9 Audio |lff
+    type audio
+    strip tivraStrip
+  10 MIDI |dow
+    type midi
+    strip tivraStrip
+  11 MIDI |zif
+    type midi
+    strip tivraStrip
+  12 MIDI |efu
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rlx
