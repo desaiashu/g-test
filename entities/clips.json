@@ -515,6 +515,22 @@
           "beat": 8.5,
           "durationBeats": 0.5,
           "channel": 0
+        },
+        {
+          "id": "de6u2i",
+          "note": 99,
+          "velocity": 100,
+          "beat": 11.0,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "031efm",
+          "note": 102,
+          "velocity": 100,
+          "beat": 11.5,
+          "durationBeats": 0.5,
+          "channel": 0
         }
       ]
     },
