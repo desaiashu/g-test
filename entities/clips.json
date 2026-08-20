@@ -402,7 +402,24 @@
     "offsetBeats": 0.0,
     "source": {
       "type": "Midi",
-      "notes": []
+      "notes": [
+        {
+          "id": "udct6e",
+          "note": 101,
+          "velocity": 100,
+          "beat": 3.0,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "6j6jji",
+          "note": 102,
+          "velocity": 100,
+          "beat": 5.5,
+          "durationBeats": 0.5,
+          "channel": 0
+        }
+      ]
     },
     "araEnabled": false,
     "araBypassed": false,
