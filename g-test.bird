@@ -74,6 +74,6 @@ sec main
         v 100
         n 99 100 101 99 101 99 102 99 102 102 99
     c 8:0 4:0 |wszm
-      p _w _hd q _ww
+      p _w _hd q _h q _w _q
         v 100
-        n 98
+        n 98 99

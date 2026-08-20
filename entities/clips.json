@@ -612,6 +612,14 @@
           "beat": 7.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "pae1ti",
+          "note": 99,
+          "velocity": 100,
+          "beat": 10.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
