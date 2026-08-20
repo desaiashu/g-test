@@ -65,6 +65,6 @@ sec main
         n 100 101 101 101 102
   trk 5 MIDI |wya
     c 4:0 4:0 |mxos
-      p _hd xx _h xx _hd xx _w _h _xx
+      p _hd xx _h xx _hd xx xx _h _xx xx xx _h _xx
         v 100
-        n 101 102 102
+        n 101 102 102 97 102 98
