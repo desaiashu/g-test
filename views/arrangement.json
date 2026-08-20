@@ -141,6 +141,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "asx": {
+      "id": "asx",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -154,7 +164,8 @@
     "sgn",
     "wya",
     "dnl",
-    "nwb"
+    "nwb",
+    "asx"
   ],
   "sections": {
     "oxj": {

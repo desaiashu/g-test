@@ -31,6 +31,9 @@ tracks
   7 MIDI |nwb
     type midi
     strip tivraStrip
+  8 Audio |asx
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rlx
@@ -60,3 +63,5 @@ sec main
       p _q q _h q _hd q _h q _q q _h
         v 100
         n 100 101 101 101 102
+  trk 5 MIDI |wya
+    c 4:0 4:0 |mxos
