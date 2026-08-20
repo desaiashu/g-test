@@ -628,23 +628,5 @@
     "enabled": true,
     "state": null,
     "sidechainSensitivity": 0.6000000238418579
-  },
-  "akxw": {
-    "id": "akxw",
-    "trackId": "cdz",
-    "typeName": "tivraStrip",
-    "slot": "channelStrip",
-    "enabled": true,
-    "state": null,
-    "sidechainSensitivity": 0.6000000238418579
-  },
-  "tvvf": {
-    "id": "tvvf",
-    "trackId": "vvc",
-    "typeName": "tivraStrip",
-    "slot": "channelStrip",
-    "enabled": true,
-    "state": null,
-    "sidechainSensitivity": 0.6000000238418579
   }
 }

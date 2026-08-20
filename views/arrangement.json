@@ -171,26 +171,6 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
-    },
-    "cdz": {
-      "id": "cdz",
-      "name": "MIDI",
-      "trackType": "midi",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
-    },
-    "vvc": {
-      "id": "vvc",
-      "name": "MIDI",
-      "trackType": "midi",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -207,9 +187,7 @@
     "nwb",
     "asx",
     "lff",
-    "dow",
-    "cdz",
-    "vvc"
+    "dow"
   ],
   "sections": {
     "oxj": {

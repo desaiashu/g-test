@@ -40,12 +40,6 @@ tracks
   10 MIDI |dow
     type midi
     strip tivraStrip
-  11 MIDI |cdz
-    type midi
-    strip tivraStrip
-  12 MIDI |vvc
-    type midi
-    strip tivraStrip
 
 returns
   0 Hall |rlx
