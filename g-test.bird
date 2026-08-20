@@ -81,9 +81,9 @@ sec main
         v 30 100 100 100 100 100
         n 101 97 97 101 101 101
     c 64:0 32:0 |nuqp
-      p _ww _q q q _w q _hd q _h q _w26 _q
+      p _ww _q q q _hd q q _hd q _h q _w26 _q
         v 100
-        n 102 98 102 104 100
+        n 102 98 98 102 104 100
   trk 7 MIDI |nwb
     c 4:0 4:0 |ylrw
       p _qd xx _qd xx _xx xx _xx xx _q xx _q xx _xx xx _q xx xx _qd xx xx _qd
