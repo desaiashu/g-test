@@ -40,6 +40,9 @@ tracks
   10 MIDI |dow
     type midi
     strip tivraStrip
+  11 Audio |gsx
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rlx

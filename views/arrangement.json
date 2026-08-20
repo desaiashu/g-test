@@ -171,6 +171,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "gsx": {
+      "id": "gsx",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -187,7 +197,8 @@
     "nwb",
     "asx",
     "lff",
-    "dow"
+    "dow",
+    "gsx"
   ],
   "sections": {
     "oxj": {
