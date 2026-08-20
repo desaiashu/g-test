@@ -644,6 +644,14 @@
           "beat": 1.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "rz6lhj",
+          "note": 95,
+          "velocity": 100,
+          "beat": 4.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
