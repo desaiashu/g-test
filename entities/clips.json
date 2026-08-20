@@ -749,48 +749,7 @@
     "offsetBeats": 0.0,
     "source": {
       "type": "Midi",
-      "notes": [
-        {
-          "id": "ib6vfy",
-          "note": 98,
-          "velocity": 100,
-          "beat": 4.5,
-          "durationBeats": 0.5,
-          "channel": 0
-        },
-        {
-          "id": "1p9axn",
-          "note": 102,
-          "velocity": 100,
-          "beat": 8.5,
-          "durationBeats": 0.5,
-          "channel": 0
-        },
-        {
-          "id": "ikfjrl",
-          "note": 101,
-          "velocity": 100,
-          "beat": 10.5,
-          "durationBeats": 0.5,
-          "channel": 0
-        },
-        {
-          "id": "biv178",
-          "note": 100,
-          "velocity": 100,
-          "beat": 4.5,
-          "durationBeats": 0.5,
-          "channel": 0
-        },
-        {
-          "id": "q2ld9p",
-          "note": 98,
-          "velocity": 100,
-          "beat": 2.5,
-          "durationBeats": 0.5,
-          "channel": 0
-        }
-      ]
+      "notes": []
     },
     "araEnabled": false,
     "araBypassed": false,
@@ -933,63 +892,6 @@
           "note": 96,
           "velocity": 100,
           "beat": 1.0,
-          "durationBeats": 1.0,
-          "channel": 0
-        }
-      ]
-    },
-    "araEnabled": false,
-    "araBypassed": false,
-    "gain": 1.0,
-    "fadeInBeats": 0.0,
-    "fadeOutBeats": 0.0,
-    "fadeCurve": 1.0,
-    "loopEnabled": false,
-    "reversed": false,
-    "swing": {
-      "amount": 0.0,
-      "mode": "eighth"
-    }
-  },
-  "eqzp": {
-    "id": "eqzp",
-    "trackId": "nwb",
-    "name": "MIDI",
-    "startBeat": 64.0,
-    "lengthBeats": 32.0,
-    "offsetBeats": 0.0,
-    "source": {
-      "type": "Midi",
-      "notes": [
-        {
-          "id": "kuowqb",
-          "note": 98,
-          "velocity": 100,
-          "beat": 7.0,
-          "durationBeats": 1.0,
-          "channel": 0
-        },
-        {
-          "id": "6ugpwa",
-          "note": 96,
-          "velocity": 100,
-          "beat": 5.0,
-          "durationBeats": 1.0,
-          "channel": 0
-        },
-        {
-          "id": "yb4dbd",
-          "note": 97,
-          "velocity": 100,
-          "beat": 18.0,
-          "durationBeats": 1.0,
-          "channel": 0
-        },
-        {
-          "id": "x9uww6",
-          "note": 98,
-          "velocity": 100,
-          "beat": 23.0,
           "durationBeats": 1.0,
           "channel": 0
         }

@@ -63,18 +63,23 @@ sec main
       p _q q _h q _hd q _h q _q q _h
         v 100
         n 100 101 101 101 102
+    c 12:0 4:0 |vkhf
+      p _w q _w q _q q _w
+        v 100
+        n 99 98 99
+      p _ww _hd q _w
+        v 100
+        n 102
   trk 5 MIDI |wya
     c 4:0 4:0 |mxos
       p _hd xx _xx xx _q xx _q xx _qd xx xx _h _xx xx xx _h _xx
         v 100
         n 101 98 102 98 102 97 102 98
     c 8:0 4:0 |ocjh
-      p _h _xx xx _qd xx _hd _xx xx _qd xx _w _q
-        v 100
-        n 98 98 102 101
-      p _w _xx xx _ww _hd
-        v 100
-        n 100
+    c 12:0 4:0 |cnwl
+      p _hd q q _h q q _h q _q q _h
+        v 30 100 100 100 100 100
+        n 101 97 97 101 101 101
   trk 7 MIDI |nwb
     c 4:0 4:0 |ylrw
       p _qd xx _qd xx _xx xx _xx xx _q xx _q xx _xx xx _q xx xx _qd xx xx _qd
@@ -87,3 +92,7 @@ sec main
       p _hd xx _w _h _xx q _q q _hd
         v 100
         n 99 102 101
+    c 0:0 4:0 |zyox
+      p _q q _h q _q q _q q _h q _h q _q
+        v 100
+        n 96 99 103 100 98 100
