@@ -886,6 +886,14 @@
           "beat": 6.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "uqj18y",
+          "note": 96,
+          "velocity": 100,
+          "beat": 1.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
