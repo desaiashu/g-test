@@ -392,5 +392,231 @@
       "amount": 0.0,
       "mode": "eighth"
     }
+  },
+  "mxos": {
+    "id": "mxos",
+    "trackId": "wya",
+    "name": "MIDI",
+    "startBeat": 16.0,
+    "lengthBeats": 16.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "udct6e",
+          "note": 101,
+          "velocity": 100,
+          "beat": 3.0,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "6j6jji",
+          "note": 102,
+          "velocity": 100,
+          "beat": 5.5,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "my28do",
+          "note": 102,
+          "velocity": 100,
+          "beat": 9.0,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "liqnzx",
+          "note": 102,
+          "velocity": 100,
+          "beat": 12.5,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "46dpmb",
+          "note": 98,
+          "velocity": 100,
+          "beat": 13.0,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "f0bvbv",
+          "note": 97,
+          "velocity": 100,
+          "beat": 9.5,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "qtpfjo",
+          "note": 98,
+          "velocity": 100,
+          "beat": 7.0,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "a4xbpy",
+          "note": 98,
+          "velocity": 100,
+          "beat": 4.0,
+          "durationBeats": 0.5,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "ylrw": {
+    "id": "ylrw",
+    "trackId": "nwb",
+    "name": "MIDI",
+    "startBeat": 16.0,
+    "lengthBeats": 16.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "m8f1nm",
+          "note": 100,
+          "velocity": 100,
+          "beat": 3.5,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "xhu6dq",
+          "note": 101,
+          "velocity": 100,
+          "beat": 7.0,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "2e5bbg",
+          "note": 99,
+          "velocity": 100,
+          "beat": 8.5,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "de6u2i",
+          "note": 99,
+          "velocity": 100,
+          "beat": 11.0,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "031efm",
+          "note": 102,
+          "velocity": 100,
+          "beat": 11.5,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "6poa2a",
+          "note": 99,
+          "velocity": 100,
+          "beat": 5.5,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "6g5waa",
+          "note": 99,
+          "velocity": 100,
+          "beat": 1.5,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "g67osh",
+          "note": 99,
+          "velocity": 100,
+          "beat": 14.0,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "i74szn",
+          "note": 102,
+          "velocity": 100,
+          "beat": 13.5,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "riyp0g",
+          "note": 102,
+          "velocity": 100,
+          "beat": 9.5,
+          "durationBeats": 0.5,
+          "channel": 0
+        },
+        {
+          "id": "e51pfb",
+          "note": 101,
+          "velocity": 100,
+          "beat": 4.5,
+          "durationBeats": 0.5,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
+  },
+  "wszm": {
+    "id": "wszm",
+    "trackId": "nwb",
+    "name": "MIDI",
+    "startBeat": 32.0,
+    "lengthBeats": 16.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": []
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
   }
 }
