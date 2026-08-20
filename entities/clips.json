@@ -813,6 +813,14 @@
           "beat": 4.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "pcra9r",
+          "note": 101,
+          "velocity": 100,
+          "beat": 3.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
