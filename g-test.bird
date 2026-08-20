@@ -40,18 +40,6 @@ tracks
   10 MIDI |dow
     type midi
     strip tivraStrip
-  11 MIDI |zif
-    type midi
-    strip tivraStrip
-  12 MIDI |efu
-    type midi
-    strip tivraStrip
-  13 MIDI |nai
-    type midi
-    strip tivraStrip
-  14 MIDI |hpf
-    type midi
-    strip tivraStrip
 
 returns
   0 Hall |rlx

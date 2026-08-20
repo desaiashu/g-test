@@ -611,15 +611,6 @@
     "state": null,
     "sidechainSensitivity": 0.6000000238418579
   },
-  "biti": {
-    "id": "biti",
-    "trackId": "ith",
-    "typeName": "tivraStrip",
-    "slot": "channelStrip",
-    "enabled": true,
-    "state": null,
-    "sidechainSensitivity": 0.6000000238418579
-  },
   "cope": {
     "id": "cope",
     "trackId": "lff",
@@ -632,42 +623,6 @@
   "goqx": {
     "id": "goqx",
     "trackId": "dow",
-    "typeName": "tivraStrip",
-    "slot": "channelStrip",
-    "enabled": true,
-    "state": null,
-    "sidechainSensitivity": 0.6000000238418579
-  },
-  "zzik": {
-    "id": "zzik",
-    "trackId": "zif",
-    "typeName": "tivraStrip",
-    "slot": "channelStrip",
-    "enabled": true,
-    "state": null,
-    "sidechainSensitivity": 0.6000000238418579
-  },
-  "cgvl": {
-    "id": "cgvl",
-    "trackId": "efu",
-    "typeName": "tivraStrip",
-    "slot": "channelStrip",
-    "enabled": true,
-    "state": null,
-    "sidechainSensitivity": 0.6000000238418579
-  },
-  "ppzx": {
-    "id": "ppzx",
-    "trackId": "nai",
-    "typeName": "tivraStrip",
-    "slot": "channelStrip",
-    "enabled": true,
-    "state": null,
-    "sidechainSensitivity": 0.6000000238418579
-  },
-  "eoao": {
-    "id": "eoao",
-    "trackId": "hpf",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
