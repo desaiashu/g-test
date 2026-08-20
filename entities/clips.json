@@ -870,6 +870,14 @@
           "beat": 11.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "aotz7c",
+          "note": 100,
+          "velocity": 100,
+          "beat": 14.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
