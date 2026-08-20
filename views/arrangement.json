@@ -181,6 +181,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "xci": {
+      "id": "xci",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -198,7 +208,8 @@
     "asx",
     "lff",
     "dow",
-    "gsx"
+    "gsx",
+    "xci"
   ],
   "sections": {
     "oxj": {

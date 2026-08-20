@@ -43,6 +43,9 @@ tracks
   11 Audio |gsx
     type audio
     strip tivraStrip
+  12 MIDI |xci
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rlx

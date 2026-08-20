@@ -637,5 +637,14 @@
     "enabled": true,
     "state": null,
     "sidechainSensitivity": 0.6000000238418579
+  },
+  "kbxx": {
+    "id": "kbxx",
+    "trackId": "xci",
+    "typeName": "tivraStrip",
+    "slot": "channelStrip",
+    "enabled": true,
+    "state": null,
+    "sidechainSensitivity": 0.6000000238418579
   }
 }
