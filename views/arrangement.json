@@ -191,6 +191,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "efu": {
+      "id": "efu",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -208,7 +218,8 @@
     "asx",
     "lff",
     "dow",
-    "zif"
+    "zif",
+    "efu"
   ],
   "sections": {
     "oxj": {

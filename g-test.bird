@@ -43,6 +43,9 @@ tracks
   11 MIDI |zif
     type midi
     strip tivraStrip
+  12 MIDI |efu
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rlx

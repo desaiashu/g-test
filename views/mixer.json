@@ -14,6 +14,12 @@
       "preFader": false
     },
     {
+      "trackId": "efu",
+      "returnId": "rlx",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "zuk",
       "returnId": "rrn",
       "gain": 0.0,
@@ -94,6 +100,12 @@
     {
       "trackId": "wya",
       "returnId": "rlx",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "efu",
+      "returnId": "rsy",
       "gain": 0.0,
       "preFader": false
     },
@@ -346,6 +358,18 @@
     {
       "trackId": "zif",
       "returnId": "rsy",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "efu",
+      "returnId": "rbe",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "efu",
+      "returnId": "rrn",
       "gain": 0.0,
       "preFader": false
     },
