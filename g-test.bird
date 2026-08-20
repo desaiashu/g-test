@@ -69,9 +69,9 @@ sec main
         v 100
         n 101 98 102 98 102 97 102 98
     c 8:0 4:0 |ocjh
-      p _w _xx xx _hd _xx xx _qd xx _w _q
+      p _h _xx xx _qd xx _hd _xx xx _qd xx _w _q
         v 100
-        n 98 102 101
+        n 98 98 102 101
       p _w _xx xx _ww _hd
         v 100
         n 100

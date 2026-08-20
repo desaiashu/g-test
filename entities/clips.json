@@ -781,6 +781,14 @@
           "beat": 4.5,
           "durationBeats": 0.5,
           "channel": 0
+        },
+        {
+          "id": "q2ld9p",
+          "note": 98,
+          "velocity": 100,
+          "beat": 2.5,
+          "durationBeats": 0.5,
+          "channel": 0
         }
       ]
     },
