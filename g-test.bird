@@ -76,7 +76,7 @@ sec main
     c 8:0 4:0 |wszm
       p _q q _xx xx xx xx q q q q _h q _q q q _q q
         v 100
-        n 98 97 99 102 95 99 99 98 99 96 101 96
-      p _ww _h q _q q _hd
+        n 98 97 95 102 95 99 99 98 99 96 101 96
+      p _hd xx _w _h _xx q _q q _hd
         v 100
-        n 102 101
+        n 99 102 101
