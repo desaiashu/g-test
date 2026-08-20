@@ -668,6 +668,14 @@
           "beat": 6.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "nxdpv7",
+          "note": 102,
+          "velocity": 100,
+          "beat": 10.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
