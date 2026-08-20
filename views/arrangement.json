@@ -201,6 +201,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "nai": {
+      "id": "nai",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -219,7 +229,8 @@
     "lff",
     "dow",
     "zif",
-    "efu"
+    "efu",
+    "nai"
   ],
   "sections": {
     "oxj": {
