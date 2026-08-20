@@ -34,7 +34,13 @@ tracks
   8 Audio |asx
     type audio
     strip tivraStrip
-  9 MIDI |ith
+  9 Audio |lff
+    type audio
+    strip tivraStrip
+  10 MIDI |dow
+    type midi
+    strip tivraStrip
+  11 MIDI |zif
     type midi
     strip tivraStrip
 
