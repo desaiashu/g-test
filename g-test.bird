@@ -31,6 +31,9 @@ tracks
   7 MIDI |nwb
     type midi
     strip tivraStrip
+  8 Audio |asx
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rlx
