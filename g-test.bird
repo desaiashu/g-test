@@ -49,6 +49,9 @@ tracks
   13 MIDI |pau
     type midi
     strip tivraStrip
+  14 Audio |nwz
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rlx

@@ -201,6 +201,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "nwz": {
+      "id": "nwz",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -220,7 +230,8 @@
     "dow",
     "gsx",
     "xci",
-    "pau"
+    "pau",
+    "nwz"
   ],
   "sections": {
     "oxj": {
