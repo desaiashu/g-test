@@ -6,7 +6,7 @@ A [Songbird](https://tivra.com) project.
 |---|---|
 | Tempo | 120 BPM |
 | Meter | 4/4 |
-| Tracks | 20 |
+| Tracks | 19 |
 | Clips | 13 |
 | Plugins | 33 |
 | Automation lanes | 0 |
@@ -31,7 +31,6 @@ A [Songbird](https://tivra.com) project.
 - MIDI
 - MIDI
 - Audio
-- MIDI
 - MIDI
 
 ## Layout
