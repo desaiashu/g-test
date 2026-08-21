@@ -241,6 +241,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "sir": {
+      "id": "sir",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -264,7 +274,8 @@
     "nwz",
     "syz",
     "cld",
-    "ssf"
+    "ssf",
+    "sir"
   ],
   "sections": {
     "oxj": {
