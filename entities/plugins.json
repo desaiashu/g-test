@@ -665,9 +665,9 @@
     "state": null,
     "sidechainSensitivity": 0.6000000238418579
   },
-  "mnih": {
-    "id": "mnih",
-    "trackId": "nig",
+  "ebxo": {
+    "id": "ebxo",
+    "trackId": "syz",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,

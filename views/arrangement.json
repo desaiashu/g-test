@@ -212,8 +212,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "nig": {
-      "id": "nig",
+    "syz": {
+      "id": "syz",
       "name": "MIDI",
       "trackType": "midi",
       "auditionLane": null,
@@ -242,7 +242,7 @@
     "xci",
     "pau",
     "nwz",
-    "nig"
+    "syz"
   ],
   "sections": {
     "oxj": {

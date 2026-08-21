@@ -191,7 +191,7 @@
     },
     "channelFormat": "stereo"
   },
-  "nig": {
+  "syz": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
