@@ -211,6 +211,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "syz": {
+      "id": "syz",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -231,7 +241,8 @@
     "gsx",
     "xci",
     "pau",
-    "nwz"
+    "nwz",
+    "syz"
   ],
   "sections": {
     "oxj": {
