@@ -261,16 +261,6 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
-    },
-    "feg": {
-      "id": "feg",
-      "name": "MIDI",
-      "trackType": "midi",
-      "auditionLane": null,
-      "takeLaneCount": 0,
-      "audioFlipped": false,
-      "dubState": "empty",
-      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -296,8 +286,7 @@
     "cld",
     "ssf",
     "sir",
-    "fcq",
-    "feg"
+    "fcq"
   ],
   "sections": {
     "oxj": {
