@@ -221,6 +221,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "cld": {
+      "id": "cld",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -242,7 +252,8 @@
     "xci",
     "pau",
     "nwz",
-    "syz"
+    "syz",
+    "cld"
   ],
   "sections": {
     "oxj": {
