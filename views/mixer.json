@@ -14,8 +14,8 @@
       "preFader": false
     },
     {
-      "trackId": "fcq",
-      "returnId": "rrn",
+      "trackId": "dow",
+      "returnId": "rlx",
       "gain": 0.0,
       "preFader": false
     },
@@ -554,8 +554,8 @@
       "preFader": false
     },
     {
-      "trackId": "dow",
-      "returnId": "rlx",
+      "trackId": "fcq",
+      "returnId": "rrn",
       "gain": 0.0,
       "preFader": false
     }
