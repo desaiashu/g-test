@@ -251,6 +251,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "fcq": {
+      "id": "fcq",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -275,7 +285,8 @@
     "syz",
     "cld",
     "ssf",
-    "sir"
+    "sir",
+    "fcq"
   ],
   "sections": {
     "oxj": {
