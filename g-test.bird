@@ -58,6 +58,9 @@ tracks
   16 MIDI |cld
     type midi
     strip tivraStrip
+  17 MIDI |ssf
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rlx

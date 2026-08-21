@@ -231,6 +231,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "ssf": {
+      "id": "ssf",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -253,7 +263,8 @@
     "pau",
     "nwz",
     "syz",
-    "cld"
+    "cld",
+    "ssf"
   ],
   "sections": {
     "oxj": {
