@@ -1,6 +1,6 @@
 {
   "zuk": {
-    "gain": 1.0,
+    "gain": 0.005787594709545374,
     "pan": 0.0,
     "muted": false,
     "solo": false,
@@ -12,7 +12,7 @@
     "channelFormat": "stereo"
   },
   "qae": {
-    "gain": 0.0075370739214122295,
+    "gain": 0.44612035155296326,
     "pan": 0.0,
     "muted": false,
     "solo": false,
@@ -24,10 +24,10 @@
     "channelFormat": "stereo"
   },
   "bas": {
-    "gain": 1.0,
+    "gain": 1.392585277557373,
     "pan": 0.0,
     "muted": false,
-    "solo": false,
+    "solo": true,
     "spatial": {
       "azimuth": 0.0,
       "elevation": 0.0,
