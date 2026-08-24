@@ -262,10 +262,50 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
+    "slu": {
+      "id": "slu",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
     "xec": {
       "id": "xec",
       "name": "MIDI",
       "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "uuw": {
+      "id": "uuw",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "uug": {
+      "id": "uug",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "pda": {
+      "id": "pda",
+      "name": "Audio",
+      "trackType": "audio",
       "auditionLane": null,
       "takeLaneCount": 0,
       "audioFlipped": false,
@@ -297,7 +337,10 @@
     "ssf",
     "sir",
     "fcq",
-    "xec"
+    "xec",
+    "uuw",
+    "uug",
+    "pda"
   ],
   "sections": {
     "oxj": {
