@@ -1097,6 +1097,14 @@
           "beat": 19.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "p4u50v",
+          "note": 102,
+          "velocity": 100,
+          "beat": 26.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
