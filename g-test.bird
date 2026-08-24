@@ -76,6 +76,9 @@ tracks
   22 MIDI |uug
     type midi
     strip tivraStrip
+  23 Audio |pda
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rlx

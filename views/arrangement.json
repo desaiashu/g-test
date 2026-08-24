@@ -301,6 +301,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "pda": {
+      "id": "pda",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -329,7 +339,8 @@
     "fcq",
     "xec",
     "uuw",
-    "uug"
+    "uug",
+    "pda"
   ],
   "sections": {
     "oxj": {
