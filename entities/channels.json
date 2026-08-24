@@ -26,7 +26,7 @@
   "bas": {
     "gain": 1.392585277557373,
     "pan": 0.0,
-    "muted": true,
+    "muted": false,
     "solo": false,
     "spatial": {
       "azimuth": 0.0,
