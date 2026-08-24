@@ -1063,5 +1063,78 @@
       "amount": 0.0,
       "mode": "eighth"
     }
+  },
+  "anoi": {
+    "id": "anoi",
+    "trackId": "dow",
+    "name": "MIDI",
+    "startBeat": 0.0,
+    "lengthBeats": 32.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Midi",
+      "notes": [
+        {
+          "id": "4tapqr",
+          "note": 101,
+          "velocity": 100,
+          "beat": 5.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "4irp7z",
+          "note": 100,
+          "velocity": 100,
+          "beat": 12.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "ywoh71",
+          "note": 101,
+          "velocity": 100,
+          "beat": 19.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "79l357",
+          "note": 86,
+          "velocity": 100,
+          "beat": 5.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "6180ot",
+          "note": 91,
+          "velocity": 100,
+          "beat": 13.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        },
+        {
+          "id": "lq3lbt",
+          "note": 92,
+          "velocity": 100,
+          "beat": 20.0,
+          "durationBeats": 1.0,
+          "channel": 0
+        }
+      ]
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.0,
+    "fadeOutBeats": 0.0,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
   }
 }
