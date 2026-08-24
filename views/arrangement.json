@@ -271,6 +271,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "slu": {
+      "id": "slu",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -297,7 +307,8 @@
     "ssf",
     "sir",
     "fcq",
-    "feg"
+    "feg",
+    "slu"
   ],
   "sections": {
     "oxj": {
