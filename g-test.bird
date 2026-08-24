@@ -70,15 +70,6 @@ tracks
   20 MIDI |xec
     type midi
     strip tivraStrip
-  21 MIDI |uuw
-    type midi
-    strip tivraStrip
-  22 MIDI |uug
-    type midi
-    strip tivraStrip
-  23 Audio |pda
-    type audio
-    strip tivraStrip
 
 returns
   0 Hall |rlx

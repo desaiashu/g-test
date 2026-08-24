@@ -710,45 +710,9 @@
     "state": null,
     "sidechainSensitivity": 0.6000000238418579
   },
-  "eslt": {
-    "id": "eslt",
-    "trackId": "slu",
-    "typeName": "tivraStrip",
-    "slot": "channelStrip",
-    "enabled": true,
-    "state": null,
-    "sidechainSensitivity": 0.6000000238418579
-  },
   "mspb": {
     "id": "mspb",
     "trackId": "xec",
-    "typeName": "tivraStrip",
-    "slot": "channelStrip",
-    "enabled": true,
-    "state": null,
-    "sidechainSensitivity": 0.6000000238418579
-  },
-  "guaf": {
-    "id": "guaf",
-    "trackId": "uuw",
-    "typeName": "tivraStrip",
-    "slot": "channelStrip",
-    "enabled": true,
-    "state": null,
-    "sidechainSensitivity": 0.6000000238418579
-  },
-  "auub": {
-    "id": "auub",
-    "trackId": "uug",
-    "typeName": "tivraStrip",
-    "slot": "channelStrip",
-    "enabled": true,
-    "state": null,
-    "sidechainSensitivity": 0.6000000238418579
-  },
-  "imcv": {
-    "id": "imcv",
-    "trackId": "pda",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
