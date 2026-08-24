@@ -1089,6 +1089,14 @@
           "beat": 12.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "ywoh71",
+          "note": 101,
+          "velocity": 100,
+          "beat": 19.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
