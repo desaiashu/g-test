@@ -73,6 +73,9 @@ tracks
   21 MIDI |uuw
     type midi
     strip tivraStrip
+  22 MIDI |uug
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rlx
