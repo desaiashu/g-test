@@ -1081,6 +1081,14 @@
           "beat": 5.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "4irp7z",
+          "note": 100,
+          "velocity": 100,
+          "beat": 12.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
