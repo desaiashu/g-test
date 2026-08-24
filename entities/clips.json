@@ -1120,5 +1120,35 @@
       "amount": 0.0,
       "mode": "eighth"
     }
+  },
+  "vics": {
+    "id": "vics",
+    "trackId": "zuk",
+    "name": "Chicago sketch 10-Mini V3",
+    "startBeat": 8.463817427180848,
+    "lengthBeats": 128.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Chicago sketch 10-Mini V3.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 3072000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpm": 120.0,
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.008,
+    "fadeOutBeats": 0.008,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
   }
 }
