@@ -95,6 +95,9 @@ returns
     strip tivraStrip
 
 sec main
+  trk 1 audio |zuk
+    c 2:45 32:0 |vics
+      'samples/Chicago sketch 10-Mini V3.wav'
   trk 2 Chords |qae
     c 0:0 32:0 |uanu
   trk 3 Bass |bas
@@ -148,6 +151,9 @@ sec main
     c 32:0 32:0 |wqiw
   trk 10 MIDI |dow
     c 0:0 8:0 |anoi
-      p _w _q q _w _h q _w _h q _w _h q _w _q
+      p _w _q q _w _h q _w _h q _w3
         v 100
-        n 101 100 101 102
+        n 86 100 101
+      p _w _q q _w6 _h
+        v 100
+        n 101
