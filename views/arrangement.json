@@ -261,6 +261,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "xec": {
+      "id": "xec",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -286,7 +296,8 @@
     "cld",
     "ssf",
     "sir",
-    "fcq"
+    "fcq",
+    "xec"
   ],
   "sections": {
     "oxj": {
