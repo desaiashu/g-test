@@ -148,3 +148,6 @@ sec main
     c 32:0 32:0 |wqiw
   trk 10 MIDI |dow
     c 0:0 8:0 |anoi
+      p _w _q q _w6 _h
+        v 100
+        n 101
