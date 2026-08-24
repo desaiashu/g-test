@@ -1180,5 +1180,35 @@
       "amount": 0.0,
       "mode": "eighth"
     }
+  },
+  "ggsy": {
+    "id": "ggsy",
+    "trackId": "zuk",
+    "name": "Infinite Crate Groove v4 18-Statement Lead",
+    "startBeat": 337.0147204067105,
+    "lengthBeats": 755.238125,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Infinite Crate Groove v4 18-Statement Lead.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 18125715,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpm": 90.90909090909092,
+      "sourceBpmOrigin": "Detected"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.008,
+    "fadeOutBeats": 0.008,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
   }
 }

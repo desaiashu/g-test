@@ -100,6 +100,8 @@ sec main
       'samples/Chicago sketch 10-Mini V3.wav'
     c 44:55 32:0 |sypp
       'samples/Chicago sketch 11-dubpad 127 F [2020-12-03 123449].wav'
+    c 84:97 188:311 |ggsy
+      'samples/Infinite Crate Groove v4 18-Statement Lead.wav'
   trk 2 Chords |qae
     c 0:0 32:0 |uanu
   trk 3 Bass |bas
