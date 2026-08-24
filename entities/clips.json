@@ -1150,5 +1150,35 @@
       "amount": 0.0,
       "mode": "eighth"
     }
+  },
+  "sypp": {
+    "id": "sypp",
+    "trackId": "zuk",
+    "name": "Chicago sketch 11-dubpad 127 F [2020-12-03 123449]",
+    "startBeat": 176.57151251123287,
+    "lengthBeats": 128.0,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Chicago sketch 11-dubpad 127 F [2020-12-03 123449].wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 3072000,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpm": 120.0,
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.008,
+    "fadeOutBeats": 0.008,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
   }
 }
