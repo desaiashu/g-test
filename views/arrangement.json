@@ -261,6 +261,26 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "feg": {
+      "id": "feg",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "slu": {
+      "id": "slu",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -286,7 +306,9 @@
     "cld",
     "ssf",
     "sir",
-    "fcq"
+    "fcq",
+    "feg",
+    "slu"
   ],
   "sections": {
     "oxj": {

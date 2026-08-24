@@ -67,6 +67,12 @@ tracks
   19 Audio |fcq
     type audio
     strip tivraStrip
+  20 MIDI |feg
+    type midi
+    strip tivraStrip
+  21 Audio |slu
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rlx

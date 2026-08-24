@@ -709,5 +709,23 @@
     "enabled": true,
     "state": null,
     "sidechainSensitivity": 0.6000000238418579
+  },
+  "bnoj": {
+    "id": "bnoj",
+    "trackId": "feg",
+    "typeName": "tivraStrip",
+    "slot": "channelStrip",
+    "enabled": true,
+    "state": null,
+    "sidechainSensitivity": 0.6000000238418579
+  },
+  "eslt": {
+    "id": "eslt",
+    "trackId": "slu",
+    "typeName": "tivraStrip",
+    "slot": "channelStrip",
+    "enabled": true,
+    "state": null,
+    "sidechainSensitivity": 0.6000000238418579
   }
 }
