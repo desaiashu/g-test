@@ -67,11 +67,8 @@ tracks
   19 Audio |fcq
     type audio
     strip tivraStrip
-  20 MIDI |feg
+  20 MIDI |xec
     type midi
-    strip tivraStrip
-  21 Audio |slu
-    type audio
     strip tivraStrip
 
 returns
