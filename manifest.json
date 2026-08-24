@@ -1,1 +1,14 @@
-{}
+{
+  "samples/Chicago sketch 10-Mini V3.wav": {
+    "sha256": "45e12127a81c3cf064f5b7f5612b4470ba468e3e2121f1c0b9ba339178394b40",
+    "bytes": 12288080
+  },
+  "samples/Chicago sketch 11-dubpad 127 F [2020-12-03 123449].wav": {
+    "sha256": "3a3b9a29d62e0cca89e1bc252a75c86203d84b6266f9179effa998e2714bc4f8",
+    "bytes": 12288080
+  },
+  "samples/Infinite Crate Groove v4 18-Statement Lead.wav": {
+    "sha256": "25a00e8573714c29742c4d0aefbf4dce3fd4b08f1101707254af598ae87b54b8",
+    "bytes": 72502940
+  }
+}
