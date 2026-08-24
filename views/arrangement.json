@@ -281,6 +281,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "uuw": {
+      "id": "uuw",
+      "name": "MIDI",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -307,7 +317,8 @@
     "ssf",
     "sir",
     "fcq",
-    "xec"
+    "xec",
+    "uuw"
   ],
   "sections": {
     "oxj": {
