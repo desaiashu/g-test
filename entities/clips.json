@@ -1113,6 +1113,14 @@
           "beat": 13.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "lq3lbt",
+          "note": 92,
+          "velocity": 100,
+          "beat": 20.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
