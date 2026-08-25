@@ -1,10 +1,3 @@
 {
-  "armState": {
-    "zuk": {
-      "armed": false,
-      "audioSource": null,
-      "midiInput": null,
-      "inputMonitoring": "auto"
-    }
-  }
+  "armState": {}
 }
