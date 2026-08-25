@@ -153,6 +153,9 @@ sec main
         v 100
         n 96 99 103 100 98 100
     c 32:0 32:0 |wqiw
+  trk 9 Audio |lff
+    c 1:261 140:187 |dnox
+      'samples/Oliver Sim remix Kick.wav'
   trk 10 MIDI |dow
     c 0:0 8:0 |anoi
       p _w _q q _w _h q _w _h q _w3
