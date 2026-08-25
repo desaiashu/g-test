@@ -1,0 +1,44 @@
+{
+  "nodes": {
+    "prib": {
+      "nodeId": "prib",
+      "typeId": "plugin",
+      "position": [
+        570.6401,
+        281.0607
+      ],
+      "refId": "tivraChorus",
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false
+    },
+    "peng": {
+      "nodeId": "peng",
+      "typeId": "instrument",
+      "position": [
+        236.53247,
+        319.96695
+      ],
+      "refId": "tivraSub",
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false
+    },
+    "yauc": {
+      "nodeId": "yauc",
+      "typeId": "instrument",
+      "position": [
+        243.13704,
+        470.8684
+      ],
+      "refId": "tivraFM",
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false
+    }
+  },
+  "connections": []
+}
