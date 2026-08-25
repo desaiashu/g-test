@@ -1,4 +1,18 @@
 {
-  "nodes": {},
+  "nodes": {
+    "prib": {
+      "nodeId": "prib",
+      "typeId": "plugin",
+      "position": [
+        664.6154,
+        393.3113
+      ],
+      "refId": "tivraChorus",
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false
+    }
+  },
   "connections": []
 }
