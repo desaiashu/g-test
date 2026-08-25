@@ -10,5 +10,9 @@
   "samples/Infinite Crate Groove v4 18-Statement Lead.wav": {
     "sha256": "25a00e8573714c29742c4d0aefbf4dce3fd4b08f1101707254af598ae87b54b8",
     "bytes": 72502940
+  },
+  "samples/Oliver Sim remix Kick.wav": {
+    "sha256": "4933777614db8e6f1e137924448d98a1331f09b0090ccc2d639d2b88037a6b51",
+    "bytes": 53947400
   }
 }
