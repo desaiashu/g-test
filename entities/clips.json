@@ -1313,31 +1313,6 @@
       "mode": "eighth"
     }
   },
-  "iwpj": {
-    "id": "iwpj",
-    "trackId": "euj",
-    "name": "MIDI",
-    "startBeat": 0.0,
-    "lengthBeats": 4.0,
-    "offsetBeats": 0.0,
-    "source": {
-      "type": "Midi",
-      "notes": []
-    },
-    "araEnabled": false,
-    "araBypassed": false,
-    "laneIndex": 6,
-    "gain": 1.0,
-    "fadeInBeats": 0.0,
-    "fadeOutBeats": 0.0,
-    "fadeCurve": 1.0,
-    "loopEnabled": true,
-    "reversed": false,
-    "swing": {
-      "amount": 0.0,
-      "mode": "eighth"
-    }
-  },
   "tnbi": {
     "id": "tnbi",
     "trackId": "zwi",
