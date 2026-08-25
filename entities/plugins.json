@@ -754,5 +754,14 @@
     "enabled": true,
     "state": null,
     "sidechainSensitivity": 0.6000000238418579
+  },
+  "mnit": {
+    "id": "mnit",
+    "trackId": "fja",
+    "typeName": "tivraStrip",
+    "slot": "channelStrip",
+    "enabled": true,
+    "state": null,
+    "sidechainSensitivity": 0.6000000238418579
   }
 }

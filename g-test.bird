@@ -79,6 +79,9 @@ tracks
   23 Audio |pda
     type audio
     strip tivraStrip
+  24 Harmony |fja
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rlx

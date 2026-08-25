@@ -311,6 +311,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "fja": {
+      "id": "fja",
+      "name": "Harmony",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -340,7 +350,8 @@
     "xec",
     "uuw",
     "uug",
-    "pda"
+    "pda",
+    "fja"
   ],
   "sections": {
     "oxj": {
