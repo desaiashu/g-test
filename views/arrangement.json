@@ -107,7 +107,7 @@
       "name": "Audio",
       "trackType": "audio",
       "auditionLane": null,
-      "takeLaneCount": 1,
+      "takeLaneCount": 2,
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
