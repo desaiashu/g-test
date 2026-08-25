@@ -170,3 +170,6 @@ sec main
   trk 11 Audio |gsx
     c 0:279 140:187 |rnna
       'samples/Oliver Sim remix Bass.wav'
+  trk 24 Harmony |fja
+      lane 2
+        c 0:0 1:0 |zfnk
