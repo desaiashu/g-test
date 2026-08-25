@@ -321,6 +321,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "euj": {
+      "id": "euj",
+      "name": "Bass",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -351,7 +361,8 @@
     "uuw",
     "uug",
     "pda",
-    "fja"
+    "fja",
+    "euj"
   ],
   "sections": {
     "oxj": {

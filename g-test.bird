@@ -82,6 +82,9 @@ tracks
   24 Harmony |fja
     type midi
     strip tivraStrip
+  25 Bass |euj
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rlx
