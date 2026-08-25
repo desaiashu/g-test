@@ -85,6 +85,9 @@ tracks
   25 Bass |euj
     type midi
     strip tivraStrip
+  26 Melody |zwi
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rlx

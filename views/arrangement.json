@@ -331,6 +331,16 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "zwi": {
+      "id": "zwi",
+      "name": "Melody",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
@@ -362,7 +372,8 @@
     "uug",
     "pda",
     "fja",
-    "euj"
+    "euj",
+    "zwi"
   ],
   "sections": {
     "oxj": {

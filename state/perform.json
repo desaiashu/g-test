@@ -19,7 +19,7 @@
       "name": "Melody",
       "kind": "midi",
       "paletteSlot": 2,
-      "trackId": null
+      "trackId": "zwi"
     },
     {
       "laneId": "harmony",
