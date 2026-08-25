@@ -2,7 +2,7 @@
   "zuk": {
     "gain": 0.039580922573804855,
     "pan": 0.0,
-    "muted": false,
+    "muted": true,
     "solo": false,
     "spatial": {
       "azimuth": 0.0,
