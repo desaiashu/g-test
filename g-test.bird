@@ -173,3 +173,6 @@ sec main
   trk 24 Harmony |fja
       lane 2
         c 0:0 1:0 |zfnk
+          p q _hd
+            v 100
+            n 87
