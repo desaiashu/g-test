@@ -164,3 +164,6 @@ sec main
       p _w _q q _w6 _h
         v 100
         n 101
+  trk 11 Audio |gsx
+    c 0:279 140:187 |rnna
+      'samples/Oliver Sim remix Bass.wav'

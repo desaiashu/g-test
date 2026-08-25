@@ -1240,5 +1240,35 @@
       "amount": 0.0,
       "mode": "eighth"
     }
+  },
+  "rnna": {
+    "id": "rnna",
+    "trackId": "gsx",
+    "name": "Oliver Sim remix Bass",
+    "startBeat": 2.9056440212298185,
+    "lengthBeats": 561.95125,
+    "offsetBeats": 0.0,
+    "source": {
+      "type": "Audio",
+      "path": "samples/Oliver Sim remix Bass.wav",
+      "sampleRate": 48000.0,
+      "channels": 2,
+      "lengthSamples": 13486830,
+      "timeStretchMode": "Signalsmith",
+      "sourceBpm": 120.0,
+      "sourceBpmOrigin": "Inherited"
+    },
+    "araEnabled": false,
+    "araBypassed": false,
+    "gain": 1.0,
+    "fadeInBeats": 0.008,
+    "fadeOutBeats": 0.008,
+    "fadeCurve": 1.0,
+    "loopEnabled": false,
+    "reversed": false,
+    "swing": {
+      "amount": 0.0,
+      "mode": "eighth"
+    }
   }
 }
