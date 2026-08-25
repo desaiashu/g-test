@@ -10,11 +10,11 @@
     "directMonitoring": false
   },
   "appearance": {
-    "theme": "dark"
+    "theme": "light"
   },
   "ai": {
     "aiComfort": 3,
-    "developmentStage": 2,
+    "developmentStage": 0,
     "pluginPreload": "project"
   },
   "workflow": {
