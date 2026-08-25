@@ -4,7 +4,7 @@
       "nodeId": "prib",
       "typeId": "plugin",
       "position": [
-        391.25003,
+        391.42432,
         287.27765
       ],
       "refId": "tivraChorus",
@@ -17,8 +17,8 @@
       "nodeId": "peng",
       "typeId": "instrument",
       "position": [
-        97.13043,
-        326.78485
+        98.26926,
+        326.79086
       ],
       "refId": "tivraSub",
       "params": {},
