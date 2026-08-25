@@ -1288,6 +1288,14 @@
           "beat": 0.0,
           "durationBeats": 1.0,
           "channel": 0
+        },
+        {
+          "id": "pgshg1",
+          "note": 91,
+          "velocity": 100,
+          "beat": 1.0,
+          "durationBeats": 1.0,
+          "channel": 0
         }
       ]
     },
