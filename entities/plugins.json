@@ -145,7 +145,7 @@
       "attackMs": 3.0,
       "decayMs": 250.0,
       "sustain": 0.699999988079071,
-      "releaseMs": 200.0,
+      "releaseMs": 1.0,
       "lfoRate": 4.0,
       "lfoAmt": 0.0,
       "glideMs": 0.0,
