@@ -122,7 +122,7 @@
   "lff": {
     "gain": 1.0,
     "pan": 0.0,
-    "muted": true,
+    "muted": false,
     "solo": false,
     "spatial": {
       "azimuth": 0.0,
