@@ -8,8 +8,8 @@
   "clipMix": {},
   "sends": [
     {
-      "trackId": "feg",
-      "returnId": "rsy",
+      "trackId": "zuk",
+      "returnId": "rlx",
       "gain": 0.0,
       "preFader": false
     },
@@ -596,14 +596,14 @@
       "preFader": false
     },
     {
-      "trackId": "pau",
+      "trackId": "feg",
       "returnId": "rsy",
       "gain": 0.0,
       "preFader": false
     },
     {
-      "trackId": "zuk",
-      "returnId": "rlx",
+      "trackId": "pau",
+      "returnId": "rsy",
       "gain": 0.0,
       "preFader": false
     }
