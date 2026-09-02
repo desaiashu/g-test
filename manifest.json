@@ -18,5 +18,9 @@
   "samples/Oliver Sim remix Kick.wav": {
     "sha256": "4933777614db8e6f1e137924448d98a1331f09b0090ccc2d639d2b88037a6b51",
     "bytes": 53947400
+  },
+  "samples/frozen/Bass_freeze_1788390141.wav": {
+    "sha256": "697ad746bb282a9798745eeb09c4237cbec4cef1b10669f02bb9b0eddc1f351d",
+    "bytes": 75264068
   }
 }
