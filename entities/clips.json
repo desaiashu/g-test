@@ -1337,5 +1337,9 @@
       "amount": 0.0,
       "mode": "eighth"
     }
+  },
+  "yjax": {
+    "swing": {},
+    "source": {}
   }
 }

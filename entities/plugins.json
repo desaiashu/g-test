@@ -518,7 +518,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "trgu": {
@@ -545,7 +545,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "zwhu": {
@@ -563,7 +563,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "anwc": {
@@ -572,7 +572,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "sqem": {
@@ -608,7 +608,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "cope": {
@@ -617,7 +617,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "goqx": {
@@ -626,7 +626,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "mwva": {
@@ -635,7 +635,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "kbxx": {
@@ -644,7 +644,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "xzup": {
@@ -653,7 +653,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "cbcw": {
@@ -662,7 +662,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "ebxo": {
@@ -671,7 +671,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "xcrw": {
@@ -680,7 +680,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "bmqi": {
@@ -689,7 +689,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "tzoa": {
@@ -698,7 +698,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "bvpp": {
@@ -707,7 +707,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "eslt": {
@@ -725,7 +725,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "guaf": {
@@ -734,7 +734,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "auub": {
@@ -743,7 +743,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "imcv": {
@@ -752,7 +752,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "mnit": {
@@ -761,7 +761,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "evjs": {
@@ -770,7 +770,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
   "layj": {
@@ -779,7 +779,7 @@
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
-    "state": null,
+    "state": {},
     "sidechainSensitivity": 0.6000000238418579
   }
 }

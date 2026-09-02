@@ -1,3 +1,52 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "parentTrackId": "bas",
+      "dubTrack": {
+        "id": "kck",
+        "name": "Bass [dub]",
+        "trackType": "dub",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
+      },
+      "dubClips": [
+        {
+          "id": "yjax",
+          "trackId": "kck",
+          "name": "Dub freeze",
+          "startBeat": 0.0,
+          "lengthBeats": 388.0,
+          "offsetBeats": 0.0,
+          "source": {
+            "type": "Audio",
+            "path": "samples/frozen/Bass_freeze_1788390141.wav",
+            "sampleRate": 48000.0,
+            "channels": 2,
+            "lengthSamples": 9408000,
+            "timeStretchMode": "Signalsmith",
+            "sourceBpmOrigin": "Inherited"
+          },
+          "araEnabled": false,
+          "araBypassed": false,
+          "gain": 1.0,
+          "fadeInBeats": 0.0,
+          "fadeOutBeats": 0.0,
+          "fadeCurve": 1.0,
+          "loopEnabled": false,
+          "reversed": false,
+          "swing": {
+            "amount": 0.0,
+            "mode": "eighth"
+          }
+        }
+      ],
+      "dubState": "frozen",
+      "audioFlipped": false,
+      "dubCapturePoint": "postFx",
+      "audioTakeLaneCount": 0
+    }
+  ]
 }

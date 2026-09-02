@@ -1,6 +1,6 @@
 {
   "zuk": {
-    "gain": 0.01721021719276905,
+    "gain": 1.1500251293182373,
     "pan": 0.0,
     "muted": false,
     "solo": false,
@@ -12,7 +12,7 @@
     "channelFormat": "stereo"
   },
   "qae": {
-    "gain": 0.7235769033432007,
+    "gain": 0.017930464819073677,
     "pan": 0.0,
     "muted": false,
     "solo": false,
@@ -24,9 +24,9 @@
     "channelFormat": "stereo"
   },
   "bas": {
-    "gain": 1.392585277557373,
+    "gain": 0.05703199282288551,
     "pan": 0.0,
-    "muted": false,
+    "muted": true,
     "solo": false,
     "spatial": {
       "azimuth": 0.0,
@@ -346,5 +346,8 @@
       "distance": 1.0
     },
     "channelFormat": "stereo"
+  },
+  "kck": {
+    "spatial": {}
   }
 }
