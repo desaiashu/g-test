@@ -41,6 +41,7 @@
       "dubTrackId": "kck",
       "audioFlipped": false,
       "dubState": "empty",
+      "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
     },
     "rlx": {

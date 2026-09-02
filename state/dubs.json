@@ -15,6 +15,7 @@
       "dubClips": [],
       "dubState": "empty",
       "audioFlipped": false,
+      "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
     }
   ]
