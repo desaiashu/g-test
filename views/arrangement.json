@@ -390,5 +390,8 @@
   "keyMarkers": [],
   "timeSigMarkers": [],
   "spatialMode": false,
-  "rendererOutputMode": "binaural"
+  "rendererOutputMode": "binaural",
+  "speakerMaps": {},
+  "speakerLevels": {},
+  "speakerMutes": {}
 }
