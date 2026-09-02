@@ -346,5 +346,8 @@
       "distance": 1.0
     },
     "channelFormat": "stereo"
+  },
+  "kck": {
+    "spatial": {}
   }
 }
