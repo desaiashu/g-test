@@ -1,3 +1,21 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "parentTrackId": "bas",
+      "dubTrack": {
+        "id": "kck",
+        "name": "Bass [dub]",
+        "trackType": "dub",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
+      },
+      "dubClips": [],
+      "dubState": "empty",
+      "audioFlipped": false,
+      "audioTakeLaneCount": 0
+    }
+  ]
 }
