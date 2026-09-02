@@ -39,7 +39,7 @@
       "auditionLane": null,
       "takeLaneCount": 0,
       "dubTrackId": "kck",
-      "audioFlipped": true,
+      "audioFlipped": false,
       "dubState": "frozen",
       "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
