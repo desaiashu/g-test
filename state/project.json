@@ -12,7 +12,9 @@
     "bufferSize": 512
   },
   "trackAppearance": {},
+  "embeddedTemplates": {},
+  "videoFilePath": null,
+  "spaces": [],
   "customEditors": {},
-  "scriptFxEditors": {},
-  "videoFilePath": null
+  "scriptFxEditors": {}
 }

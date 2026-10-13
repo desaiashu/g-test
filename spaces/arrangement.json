@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "bpm": 130.0,
+  "scale": null,
+  "timeSigNumerator": 4,
+  "timeSigDenominator": 4,
+  "tracks": {},
+  "trackOrder": [],
+  "groups": {},
+  "sections": {},
+  "tempoMarkers": [],
+  "keyMarkers": [],
+  "timeSigMarkers": [],
+  "spatialMode": false,
+  "rendererOutputMode": "binaural",
+  "speakerMaps": {},
+  "speakerLevels": {},
+  "speakerMutes": {},
+  "outputBusGains": {},
+  "outputBusMutes": {}
+}

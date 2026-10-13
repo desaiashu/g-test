@@ -21,7 +21,8 @@
     "vibeMode": false,
     "experienceLevel": 3,
     "defaultChannelStrip": null,
-    "pluginMode": "slotsExpanding"
+    "pluginMode": "slotsExpanding",
+    "editorMode": "audio"
   },
   "playback": {
     "previewVolume": 0.7

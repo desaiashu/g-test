@@ -1,0 +1,26 @@
+{
+  "mappings": {},
+  "nextId": 0,
+  "macros": {},
+  "devices": {
+    "polybrute-vst": {
+      "id": "polybrute-vst",
+      "name": "PolyBrute VST",
+      "port": null,
+      "layoutId": null,
+      "channel": null,
+      "detectedChannel": 0,
+      "manual": false
+    },
+    "polybrute-midi": {
+      "id": "polybrute-midi",
+      "name": "PolyBrute MIDI",
+      "port": null,
+      "layoutId": null,
+      "channel": null,
+      "detectedChannel": null,
+      "manual": false
+    }
+  },
+  "recordAutomation": false
+}

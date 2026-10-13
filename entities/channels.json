@@ -9,7 +9,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "qae": {
     "gain": 0.017930464819073677,
@@ -21,7 +22,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "bas": {
     "gain": 0.05703199282288551,
@@ -33,7 +35,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "sgn": {
     "gain": 1.0,
@@ -45,7 +48,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "wya": {
     "gain": 0.05983651801943779,
@@ -57,7 +61,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "dnl": {
     "gain": 0.09056144952774048,
@@ -69,7 +74,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "nwb": {
     "gain": 1.1727280616760254,
@@ -81,7 +87,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "qel": {
     "gain": 1.091994285583496,
@@ -93,7 +100,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "tux": {
     "gain": 1.0,
@@ -105,7 +113,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "asx": {
     "gain": 1.0,
@@ -117,7 +126,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "lff": {
     "gain": 1.0,
@@ -129,7 +139,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "dow": {
     "gain": 1.0,
@@ -141,7 +152,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "gsx": {
     "gain": 1.0,
@@ -153,7 +165,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "xci": {
     "gain": 1.0,
@@ -165,7 +178,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "pau": {
     "gain": 1.0,
@@ -177,7 +191,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "nwz": {
     "gain": 1.0,
@@ -189,7 +204,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "syz": {
     "gain": 1.0,
@@ -201,7 +217,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "cld": {
     "gain": 1.0,
@@ -213,7 +230,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "ssf": {
     "gain": 1.0,
@@ -225,7 +243,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "sir": {
     "gain": 1.0,
@@ -237,7 +256,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "fcq": {
     "gain": 1.0,
@@ -249,7 +269,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "slu": {
     "gain": 1.0,
@@ -261,7 +282,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "xec": {
     "gain": 1.0,
@@ -273,7 +295,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "uuw": {
     "gain": 1.0,
@@ -285,7 +308,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "uug": {
     "gain": 1.0,
@@ -297,7 +321,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "pda": {
     "gain": 1.0,
@@ -309,7 +334,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "fja": {
     "gain": 1.0,
@@ -321,7 +347,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "euj": {
     "gain": 1.0,
@@ -333,7 +360,8 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "zwi": {
     "gain": 1.0,
@@ -345,9 +373,20 @@
       "elevation": 0.0,
       "distance": 1.0
     },
-    "channelFormat": "stereo"
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   },
   "kck": {
-    "spatial": {}
+    "gain": 1.0,
+    "pan": 0.0,
+    "muted": false,
+    "solo": false,
+    "spatial": {
+      "azimuth": 0.0,
+      "elevation": 0.0,
+      "distance": 1.0
+    },
+    "channelFormat": "stereo",
+    "monoSource": "sum"
   }
 }
