@@ -18,7 +18,7 @@
       "port": null,
       "layoutId": null,
       "channel": null,
-      "detectedChannel": null,
+      "detectedChannel": 0,
       "manual": false
     }
   },
